@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Hacking_Project/Config/DefaultEditor.ini
+Hacking_Project/Config/DefaultEditorPerProjectUserSettings.ini
+Hacking_Project/Saved/Config/WindowsEditor/GameUserSettings.ini
