@@ -1132,3 +1132,130 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.01.23-13.31.46:209][742]LogSlate: Took 0.001059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.01.23-13.32.07:064][678]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
 [2024.01.23-13.33.28:132][ 58]LogDerivedDataCache: C:/Users/Bebop/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 619 files in 1064 folders with total size 8 MiB.
+[2024.01.23-13.34.02:538][647]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.23-13.34.04:394][820]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.23-13.34.04:411][820]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.23-13.34.04:422][821]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.23-13.34.07:050][ 54]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.01.23-13.34.07:051][ 54]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.23-13.34.13:450][646]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.23-13.34.13:461][646]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.23-13.34.13:506][648]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.23-13.34.16:535][917]LogContentBrowser: Attempting asset rename: NewFolder -> _BPs
+[2024.01.23-13.34.16:535][917]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.23-13.34.42:161][150]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.01.23-13.34.42:245][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController_C' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.SKEL_BP_FirstPersonPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.SKEL_BP_FirstPersonPlayerController_C:UserConstructionScript' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.SKEL_BP_FirstPersonPlayerController_C' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:045][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController_C:ReceiveBeginPlay' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonPlayerController.PackageMetaData'
+[2024.01.23-13.34.44:051][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonCharacter.PackageMetaData'
+[2024.01.23-13.34.44:051][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.SKEL_BP_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonCharacter.PackageMetaData'
+[2024.01.23-13.34.44:051][321]LogMetaData: Removing '/Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.SKEL_BP_FirstPersonCharacter_C' ref from Metadata '/Game/_FirstPersonTemplate/Player/_BPs/BP_FirstPersonCharacter.PackageMetaData'
+[2024.01.23-13.34.44:059][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-13.34.44:164][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Core/BP_FirstPersonGameMode" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_Core/BP_FirstPersonGameMode.uasset" SILENT=true
+[2024.01.23-13.34.44:169][321]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.004822 seconds
+[2024.01.23-13.34.44:171][321]LogSavePackage: Moving output files for package: /Game/_Core/BP_FirstPersonGameMode
+[2024.01.23-13.34.44:171][321]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_FirstPersonGameMode2EFEAC6345AD59F1F59836A5D9E8311B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_Core/BP_FirstPersonGameMode.uasset'
+[2024.01.23-13.34.44:184][321]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component
+[2024.01.23-13.34.44:184][321]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Weapon_Component1F6D1A7749B3805DDEAA1B8CACDC6DDC.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.uasset'
+[2024.01.23-13.34.44:185][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.44:256][321]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle
+[2024.01.23-13.34.44:256][321]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Pickup_Rifle30642F1F4BF50448A655569B5D29820C.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.uasset'
+[2024.01.23-13.34.44:257][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.44:333][321]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/Animations/FirstPerson_AnimBP
+[2024.01.23-13.34.44:333][321]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/FirstPerson_AnimBP2463053942B60A25BC3E43BFD7BBEC7A.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/Animations/FirstPerson_AnimBP.uasset'
+[2024.01.23-13.34.44:334][321]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController does not exist, will not scan.
+[2024.01.23-13.34.44:338][321]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController
+[2024.01.23-13.34.44:338][321]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_FirstPersonPlayerController3F7EDA4646F2692655260097EFFB309E.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.uasset'
+[2024.01.23-13.34.44:340][321]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter does not exist, will not scan.
+[2024.01.23-13.34.44:346][321]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter
+[2024.01.23-13.34.44:346][321]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_FirstPersonCharacter1B6441DE46DB95A69C1498BA8C9BE3DF.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.uasset'
+[2024.01.23-13.34.44:357][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms
+[2024.01.23-13.34.44:376][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.23-13.34.44:389][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.23-13.34.44:393][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-13.34.44:441][321]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.23-13.34.44:442][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Core/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2024.01.23-13.34.44:442][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.23-13.34.44:442][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.01.23-13.34.44:442][321]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/_FirstPersonTemplate/Player/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2024.01.23-13.34.44:442][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+[2024.01.23-13.34.44:442][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.23-13.34.54:843][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.54:878][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.54:940][315]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.55:042][320]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.01.23-13.34.55:042][320]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.01.23-13.34.55:042][320]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.01.23-13.34.55:158][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: ================================================
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: RAM used: 41,36 KiB of 819,20 MiB budget. Usage: 0.00%
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.23-13.34.55:207][326]LogShaderCompilers: Display: ================================================
+[2024.01.23-13.35.02:494][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.35.08:446][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component.BP_Weapon_Component_C' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.PackageMetaData'
+[2024.01.23-13.35.08:446][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component.BP_Weapon_Component:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.PackageMetaData'
+[2024.01.23-13.35.08:446][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component.SKEL_BP_Weapon_Component_C:ReceiveBeginPlay' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.PackageMetaData'
+[2024.01.23-13.35.08:446][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component.SKEL_BP_Weapon_Component_C' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.PackageMetaData'
+[2024.01.23-13.35.08:446][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component.BP_Weapon_Component_C:ReceiveBeginPlay' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Weapon_Component.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_FirstPersonProjectile.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.SKEL_BP_FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_FirstPersonProjectile.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.SKEL_BP_FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_FirstPersonProjectile.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.SKEL_BP_FirstPersonProjectile_C' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_FirstPersonProjectile.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_FirstPersonProjectile.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.BP_Pickup_Rifle_C' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.BP_Pickup_Rifle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.SKEL_BP_Pickup_Rifle_C:BndEvt__BP_Rifle_SphereCollision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.SKEL_BP_Pickup_Rifle_C:UserConstructionScript' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.PackageMetaData'
+[2024.01.23-13.35.08:448][398]LogMetaData: Removing '/Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.SKEL_BP_Pickup_Rifle_C' ref from Metadata '/Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.PackageMetaData'
+[2024.01.23-13.35.08:452][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-13.35.08:646][398]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter
+[2024.01.23-13.35.08:647][398]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_FirstPersonCharacter5E09A8AC4319F3CB52D9D5AB55BCA6D4.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.uasset'
+[2024.01.23-13.35.08:656][398]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component
+[2024.01.23-13.35.08:656][398]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Weapon_Component9102AD3B435D7F220BF6FDAE9151539B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Weapon/BP_Weapon_Component.uasset'
+[2024.01.23-13.35.08:659][398]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile does not exist, will not scan.
+[2024.01.23-13.35.08:663][398]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile
+[2024.01.23-13.35.08:663][398]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_FirstPersonProjectileEAF0CC1E483590C600DB63A8BF6A22E8.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.uasset'
+[2024.01.23-13.35.08:669][398]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle
+[2024.01.23-13.35.08:669][398]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Pickup_Rifle591D03AC4CA3CA7EE325D29182F1EAC7.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.uasset'
+[2024.01.23-13.35.08:671][398]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle
+[2024.01.23-13.35.08:671][398]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Pickup_Rifle12BDDB2E446E5A187C4857B1D9FC12B4.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.uasset'
+[2024.01.23-13.35.08:682][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 527 ms)
+[2024.01.23-13.35.08:695][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.23-13.35.08:700][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.23-13.35.08:704][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-13.35.08:754][398]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Weapon/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Weapon/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.Default__BP_Pickup_Rifle_C
+[2024.01.23-13.35.08:754][398]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/_FirstPersonTemplate/Weapon/_BPs/BP_Pickup_Rifle.BP_Pickup_Rifle_C
+[2024.01.23-13.35.16:412][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-13.35.16:415][189]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.23-13.35.16:415][189]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.23-13.35.16:415][189]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.23-13.35.16:469][189]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.23-13.35.16:469][189]LogWorldPartition: Display: WorldPartition initialize took 54 ms
+[2024.01.23-13.35.16:475][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-13.35.16:476][189]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_FirstPersonTemplate/Maps/FirstPersonMap/1/7C/06RE81MCZXI4CDLU4BKSA0
+[2024.01.23-13.35.16:476][189]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/06RE81MCZXI4CDLU4BKSA0170DDBF0424792F124E587BC8422BF1C.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/__ExternalActors__/_FirstPersonTemplate/Maps/FirstPersonMap/1/7C/06RE81MCZXI4CDLU4BKSA0.uasset'
+[2024.01.23-13.35.16:477][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 2 ms (total: 530 ms)
+[2024.01.23-13.35.16:483][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.23-13.35.16:500][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.23-13.35.16:504][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.23-13.35.16:509][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.23-13.35.16:513][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.23-13.35.16:532][189]AssetCheck: New page: Asset Save: BP_Rifle_C_1
+[2024.01.23-13.35.16:532][189]LogContentValidation: Display: Validating /Game/_FirstPersonTemplate/Weapon/BP_Pickup_Rifle.BP_Pickup_Rifle_C /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
