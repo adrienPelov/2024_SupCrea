@@ -1225,3 +1225,1284 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-14.34.52:691][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_PlayerController.BP_PlayerController
 [2024.01.24-14.34.52:691][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
 [2024.01.24-14.34.52:714][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.36.08:656][241]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.36.08:679][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.24-14.36.13:505][522]LogDerivedDataCache: C:/Users/Bebop/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 650 files in 1104 folders with total size 8 MiB.
+[2024.01.24-14.36.13:749][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.36.13:750][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.36.13:750][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.37.08:549][743]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.37.08:621][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.24-14.37.09:400][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.37.09:508][785]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.37.09:508][785]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player240A1F974C9EC31CEBA75087464B7165.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.37.09:514][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 421 ms)
+[2024.01.24-14.37.09:515][785]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.37.09:515][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.37.12:216][939]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.37.12:281][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.24-14.37.12:811][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.37.12:916][966]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.37.12:916][966]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerC6C8BBA542E2D2A7E41390A83E71A12B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.37.12:924][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 533 ms)
+[2024.01.24-14.37.12:925][966]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.37.12:925][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.38.04:401][  6]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.38.04:475][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.24-14.38.05:159][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.38.05:270][ 40]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.38.05:270][ 40]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player1C16503F4390883B950A5E9F643F468D.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.38.05:277][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 650 ms)
+[2024.01.24-14.38.05:278][ 40]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.38.05:278][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.38.21:280][971]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.38.21:338][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.24-14.39.19:437][381]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.39.19:496][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.24-14.39.20:006][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.39.20:116][407]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.39.20:116][407]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player0FD73E1E4793BC9BDDB32286A58D805B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.39.20:125][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 767 ms)
+[2024.01.24-14.39.20:126][407]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.39.20:127][407]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.40.12:102][434]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.40.12:161][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.24-14.40.13:823][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.40.13:934][530]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.40.13:934][530]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player3CC4E3C748BDC9E35A735ABB879F8A36.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.40.13:942][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 886 ms)
+[2024.01.24-14.40.13:944][530]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.40.13:944][530]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.41.46:144][917]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.41.46:149][917]LogBlueprint: Error: [AssetLog] E:\_JV\_Cours\_SupCrea\2024\2024_SupCrea_Repo\Hacking_Project\Content\_FirstPersonTemplate\Player\BP_PlayerController.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2024.01.24-14.41.46:149][917]LogBlueprint: Error: [AssetLog] E:\_JV\_Cours\_SupCrea\2024\2024_SupCrea_Repo\Hacking_Project\Content\_FirstPersonTemplate\Player\BP_PlayerController.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2024.01.24-14.41.46:149][917]LogBlueprint: Error: [AssetLog] E:\_JV\_Cours\_SupCrea\2024\2024_SupCrea_Repo\Hacking_Project\Content\_FirstPersonTemplate\Player\BP_PlayerController.uasset: [Compiler] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2024.01.24-14.41.46:149][917]LogBlueprint: Error: [AssetLog] E:\_JV\_Cours\_SupCrea\2024\2024_SupCrea_Repo\Hacking_Project\Content\_FirstPersonTemplate\Player\BP_PlayerController.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2024.01.24-14.41.46:169][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.24-14.43.30:458][ 94]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.43.30:464][ 94]LogBlueprint: Error: [AssetLog] E:\_JV\_Cours\_SupCrea\2024\2024_SupCrea_Repo\Hacking_Project\Content\_FirstPersonTemplate\Player\BP_PlayerController.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2024.01.24-14.43.30:464][ 94]LogBlueprint: Error: [AssetLog] E:\_JV\_Cours\_SupCrea\2024\2024_SupCrea_Repo\Hacking_Project\Content\_FirstPersonTemplate\Player\BP_PlayerController.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2024.01.24-14.43.30:484][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.24-14.43.50:516][255]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.43.50:541][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.24-14.43.51:355][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.43.51:421][297]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_PlayerController
+[2024.01.24-14.43.51:422][297]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerControllerC33CCE86498089991E1A3185B9C054CF.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_PlayerController.uasset'
+[2024.01.24-14.43.51:428][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 959 ms)
+[2024.01.24-14.43.51:429][297]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.01.24-14.43.51:429][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_PlayerController.BP_PlayerController
+[2024.01.24-14.43.55:456][535]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.43.55:481][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.24-14.43.56:002][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.43.56:071][563]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_PlayerController
+[2024.01.24-14.43.56:071][563]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerController2F1580D94FCF5417BB6A779F50E58875.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_PlayerController.uasset'
+[2024.01.24-14.43.56:077][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.03 sec)
+[2024.01.24-14.43.56:078][563]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.01.24-14.43.56:078][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_PlayerController.BP_PlayerController
+[2024.01.24-14.44.43:462][397]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.44.43:526][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-14.44.44:055][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.44.44:163][424]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.44.44:163][424]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player567C204B4E91C3F3C889EDB5BA3A57D6.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.44.44:171][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.15 sec)
+[2024.01.24-14.44.44:172][424]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.44.44:173][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.44.46:200][545]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-14.44.46:205][545]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-14.44.46:205][545]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.24-14.44.46:207][545]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms
+[2024.01.24-14.44.46:207][545]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.24-14.44.46:208][545]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2024.01.24-14.44.46:220][545]LogPlayLevel: [PlayLevel] Compiling BP_Pickup_Rifle before play...
+[2024.01.24-14.44.46:248][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.24-14.44.46:253][545]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (2 blueprints)
+[2024.01.24-14.44.46:254][545]PIE: New page: PIE session: FirstPersonMap (24 janv. 2024 à 16:44:46)
+[2024.01.24-14.44.46:258][545]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.01.24-14.44.46:258][545]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.01.24-14.44.46:258][545]LogPlayLevel: Creating play world package: /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.44.46:264][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005600s)
+[2024.01.24-14.44.46:264][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap to /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005657s)
+[2024.01.24-14.44.46:275][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.24-14.44.46:276][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.44.46:276][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.44.46:276][545]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-14.44.46:277][545]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-14.44.46:277][545]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-14.44.46:277][545]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-14.44.46:277][545]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-14.44.46:279][545]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-14.44.46:279][545]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 50 ms)
+[2024.01.24-14.44.46:279][545]LogPlayLevel: PIE: World Init took: (0.003294s)
+[2024.01.24-14.44.46:279][545]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-14.44.46:279][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-14.44.46:279][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-14.44.46:280][545]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-14.44.46:280][545]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-14.44.46:280][545]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-14.44.46:282][545]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-14.44.46:370][545]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.01.24-14.44.46:370][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-14.44.46:370][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-14.44.46:370][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-14.44.46:375][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.24-14.44.46:375][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.24-14.44.46:376][545]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.24-14.44.46:377][545]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.01.24-14.44.46:377][545]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.24-14.44.46:377][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.24-14.44.46:377][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.24-14.44.46:379][545]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.24-14.44.46:381][545]LogWorld: Bringing World /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.01.24-15.44.46
+[2024.01.24-14.44.46:382][545]LogWorld: Bringing up level for play took: 0.001782
+[2024.01.24-14.44.46:384][545]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.01.24-14.44.46:389][545]PIE: Server logged in
+[2024.01.24-14.44.46:390][545]PIE: Play in editor total start time 0,186 seconds.
+[2024.01.24-14.45.00:049][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.45.00:049][354]LogWorld: BeginTearingDown for /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.45.00:050][354]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-14.45.00:050][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.45.00:050][354]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-14.45.00:053][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-14.45.00:056][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.45.00:066][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.45.00:066][354]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.24-14.45.00:066][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.24-14.45.00:069][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.24-14.45.00:085][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-14.45.00:137][356]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.01.24-14.46.07:077][270]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.46.07:143][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.24-14.47.18:784][394]LogEditorTransaction: Undo Delete current selection
+[2024.01.24-14.47.41:605][675]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.47.41:672][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.24-14.47.42:189][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.47.42:301][693]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.47.42:302][693]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player88B8E0A44DD2ED51E9E479A2EAA7C2F5.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.47.42:309][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.27 sec)
+[2024.01.24-14.47.42:310][693]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.47.42:310][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.47.49:035][876]LogSlate: Window 'Delete Variable' being destroyed
+[2024.01.24-14.47.50:581][957]LogSlate: Took 0.000735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.24-14.48.21:884][775]LogEditorTransaction: Undo Delete current selection
+[2024.01.24-14.48.22:560][799]LogEditorTransaction: Undo Add Component Nodes
+[2024.01.24-14.48.23:591][855]LogEditorTransaction: Undo Delete current selection
+[2024.01.24-14.48.25:062][937]LogEditorTransaction: Redo Delete current selection
+[2024.01.24-14.48.25:349][948]LogEditorTransaction: Redo Add Component Nodes
+[2024.01.24-14.49.10:904][541]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.49.10:976][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-14.49.11:575][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.49.11:683][571]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.49.11:683][571]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player0808825547AF7AF84248EA9E4AC28B3C.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.49.11:691][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1.38 sec)
+[2024.01.24-14.49.11:692][571]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.49.11:692][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.49.13:518][680]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-14.49.13:522][680]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-14.49.13:522][680]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.24-14.49.13:523][680]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 3 ms)
+[2024.01.24-14.49.13:524][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-14.49.13:524][680]PIE: New page: PIE session: FirstPersonMap (24 janv. 2024 à 16:49:13)
+[2024.01.24-14.49.13:524][680]LogPlayLevel: Creating play world package: /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.49.13:528][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004086s)
+[2024.01.24-14.49.13:528][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap to /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004119s)
+[2024.01.24-14.49.13:540][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.24-14.49.13:542][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.49.13:542][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.49.13:543][680]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-14.49.13:543][680]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-14.49.13:543][680]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-14.49.13:543][680]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-14.49.13:543][680]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-14.49.13:545][680]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-14.49.13:545][680]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 52 ms)
+[2024.01.24-14.49.13:545][680]LogPlayLevel: PIE: World Init took: (0.002607s)
+[2024.01.24-14.49.13:545][680]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-14.49.13:545][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-14.49.13:545][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-14.49.13:545][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-14.49.13:545][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-14.49.13:545][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-14.49.13:547][680]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-14.49.13:612][680]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.01.24-14.49.13:612][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-14.49.13:612][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-14.49.13:612][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-14.49.13:613][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.24-14.49.13:613][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.24-14.49.13:614][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.24-14.49.13:614][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.24-14.49.13:615][680]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.24-14.49.13:615][680]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2024.01.24-14.49.13:615][680]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.24-14.49.13:617][680]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.24-14.49.13:619][680]LogWorld: Bringing World /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.01.24-15.49.13
+[2024.01.24-14.49.13:619][680]LogWorld: Bringing up level for play took: 0.001836
+[2024.01.24-14.49.13:621][680]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.01.24-14.49.13:624][680]PIE: Server logged in
+[2024.01.24-14.49.13:624][680]PIE: Play in editor total start time 0,103 seconds.
+[2024.01.24-14.49.19:629][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.49.19:629][ 34]LogWorld: BeginTearingDown for /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.49.19:629][ 34]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-14.49.19:630][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.49.19:630][ 34]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-14.49.19:633][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-14.49.19:636][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.49.19:645][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-14.49.19:645][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.24-14.49.19:646][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.24-14.49.19:648][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.24-14.49.19:660][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.49.19:663][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.24-14.49.19:707][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.01.24-14.49.36:485][ 20]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.49.36:551][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.01.24-14.49.37:319][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.49.37:433][ 56]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.49.37:433][ 56]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player2296818B4B347318E5848DAC078C1970.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.49.37:440][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.50 sec)
+[2024.01.24-14.49.37:442][ 56]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.49.37:442][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.49.39:575][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-14.49.39:578][183]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-14.49.39:578][183]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.24-14.49.39:580][183]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 4 ms)
+[2024.01.24-14.49.39:580][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-14.49.39:580][183]PIE: New page: PIE session: FirstPersonMap (24 janv. 2024 à 16:49:39)
+[2024.01.24-14.49.39:580][183]LogPlayLevel: Creating play world package: /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.49.39:584][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003865s)
+[2024.01.24-14.49.39:584][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap to /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003894s)
+[2024.01.24-14.49.39:596][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.24-14.49.39:599][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.49.39:599][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.49.39:600][183]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-14.49.39:600][183]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-14.49.39:600][183]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-14.49.39:600][183]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-14.49.39:600][183]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-14.49.39:601][183]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-14.49.39:601][183]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 53 ms)
+[2024.01.24-14.49.39:601][183]LogPlayLevel: PIE: World Init took: (0.002388s)
+[2024.01.24-14.49.39:601][183]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.24-14.49.39:601][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-14.49.39:601][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-14.49.39:601][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-14.49.39:602][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-14.49.39:602][183]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-14.49.39:602][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-14.49.39:602][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-14.49.39:602][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-14.49.39:602][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-14.49.39:602][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-14.49.39:602][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-14.49.39:604][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-14.49.39:669][183]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.01.24-14.49.39:669][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-14.49.39:669][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-14.49.39:669][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-14.49.39:671][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.24-14.49.39:671][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.24-14.49.39:673][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.24-14.49.39:673][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.24-14.49.39:673][183]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.24-14.49.39:673][183]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.01.24-14.49.39:673][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.24-14.49.39:675][183]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.24-14.49.39:678][183]LogWorld: Bringing World /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.01.24-15.49.39
+[2024.01.24-14.49.39:678][183]LogWorld: Bringing up level for play took: 0.002100
+[2024.01.24-14.49.39:680][183]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.01.24-14.49.39:683][183]PIE: Server logged in
+[2024.01.24-14.49.39:683][183]PIE: Play in editor total start time 0,104 seconds.
+[2024.01.24-14.50.06:039][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.50.06:039][759]LogWorld: BeginTearingDown for /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.50.06:039][759]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-14.50.06:040][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.50.06:040][759]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-14.50.06:042][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-14.50.06:047][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.50.06:056][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-14.50.06:056][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.24-14.50.06:058][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.24-14.50.06:059][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.24-14.50.06:072][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.50.06:075][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.24-14.50.06:120][760]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.01.24-14.50.33:264][329]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.50.33:291][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.24-14.50.34:992][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.50.35:060][426]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_PlayerController
+[2024.01.24-14.50.35:060][426]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerController996E84064D3AD91EDA03659A28D0B92B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_PlayerController.uasset'
+[2024.01.24-14.50.35:066][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.58 sec)
+[2024.01.24-14.50.35:068][426]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.01.24-14.50.35:068][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_PlayerController.BP_PlayerController
+[2024.01.24-14.50.37:052][544]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-14.50.37:056][544]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-14.50.37:056][544]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.24-14.50.37:057][544]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 6 ms)
+[2024.01.24-14.50.37:058][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-14.50.37:058][544]PIE: New page: PIE session: FirstPersonMap (24 janv. 2024 à 16:50:37)
+[2024.01.24-14.50.37:058][544]LogPlayLevel: Creating play world package: /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.50.37:061][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003994s)
+[2024.01.24-14.50.37:061][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap to /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004024s)
+[2024.01.24-14.50.37:071][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.01.24-14.50.37:073][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.50.37:073][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.50.37:074][544]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-14.50.37:074][544]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-14.50.37:074][544]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-14.50.37:074][544]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-14.50.37:075][544]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-14.50.37:076][544]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-14.50.37:076][544]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 54 ms)
+[2024.01.24-14.50.37:076][544]LogPlayLevel: PIE: World Init took: (0.002540s)
+[2024.01.24-14.50.37:076][544]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-14.50.37:076][544]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-14.50.37:076][544]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-14.50.37:076][544]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-14.50.37:076][544]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-14.50.37:076][544]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-14.50.37:078][544]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-14.50.37:140][544]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.01.24-14.50.37:140][544]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-14.50.37:140][544]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-14.50.37:140][544]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-14.50.37:142][544]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.24-14.50.37:142][544]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.24-14.50.37:143][544]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.24-14.50.37:143][544]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.24-14.50.37:143][544]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.24-14.50.37:143][544]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2024.01.24-14.50.37:143][544]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.24-14.50.37:146][544]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.24-14.50.37:148][544]LogWorld: Bringing World /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.01.24-15.50.37
+[2024.01.24-14.50.37:148][544]LogWorld: Bringing up level for play took: 0.001834
+[2024.01.24-14.50.37:150][544]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.01.24-14.50.37:153][544]PIE: Server logged in
+[2024.01.24-14.50.37:153][544]PIE: Play in editor total start time 0,098 seconds.
+[2024.01.24-14.51.03:579][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.51.03:579][124]LogWorld: BeginTearingDown for /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.51.03:579][124]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-14.51.03:579][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.51.03:579][124]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-14.51.03:583][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-14.51.03:586][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.51.03:595][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.51.03:596][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.24-14.51.03:596][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.24-14.51.03:598][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.24-14.51.03:612][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-14.51.03:659][125]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.01.24-14.51.28:438][584]BlueprintLog: New page: Compile BP_PlayerController
+[2024.01.24-14.51.28:466][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.24-14.51.28:878][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.51.28:949][604]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_PlayerController
+[2024.01.24-14.51.28:950][604]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerController0E47E87B403A72FAB8E478A6C8D726F5.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_PlayerController.uasset'
+[2024.01.24-14.51.28:956][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.66 sec)
+[2024.01.24-14.51.28:957][604]AssetCheck: New page: Asset Save: BP_PlayerController
+[2024.01.24-14.51.28:957][604]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_PlayerController.BP_PlayerController
+[2024.01.24-14.51.50:192][698]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-14.52.00:811][170]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-14.52.04:994][385]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.52.05:060][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.24-14.52.05:619][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.52.05:730][410]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.52.05:730][410]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerCDB4FD1E4B4F9AE51129C488F6719041.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.52.05:738][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.77 sec)
+[2024.01.24-14.52.05:739][410]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.52.05:739][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.52.10:673][703]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-14.52.10:677][703]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-14.52.10:677][703]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.24-14.52.10:678][703]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 7 ms)
+[2024.01.24-14.52.10:679][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-14.52.10:679][703]PIE: New page: PIE session: FirstPersonMap (24 janv. 2024 à 16:52:10)
+[2024.01.24-14.52.10:729][703]LogPlayLevel: Creating play world package: /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.52.10:732][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003382s)
+[2024.01.24-14.52.10:732][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap to /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003420s)
+[2024.01.24-14.52.10:744][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.24-14.52.10:748][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.52.10:748][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.52.10:748][703]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-14.52.10:748][703]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-14.52.10:748][703]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-14.52.10:748][703]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-14.52.10:748][703]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-14.52.10:750][703]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-14.52.10:750][703]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 55 ms)
+[2024.01.24-14.52.10:750][703]LogPlayLevel: PIE: World Init took: (0.002327s)
+[2024.01.24-14.52.10:750][703]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-14.52.10:750][703]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-14.52.10:750][703]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-14.52.10:751][703]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-14.52.10:751][703]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-14.52.10:751][703]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-14.52.10:753][703]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-14.52.10:809][703]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.01.24-14.52.10:810][703]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-14.52.10:810][703]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-14.52.10:810][703]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-14.52.10:811][703]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.01.24-14.52.10:811][703]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.01.24-14.52.10:812][703]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.01.24-14.52.10:812][703]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.01.24-14.52.10:813][703]LogInit: FAudioDevice initialized with ID 6.
+[2024.01.24-14.52.10:813][703]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2024.01.24-14.52.10:813][703]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.24-14.52.10:815][703]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.24-14.52.10:818][703]LogWorld: Bringing World /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.01.24-15.52.10
+[2024.01.24-14.52.10:818][703]LogWorld: Bringing up level for play took: 0.002128
+[2024.01.24-14.52.10:819][703]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.01.24-14.52.10:822][703]PIE: Server logged in
+[2024.01.24-14.52.10:823][703]PIE: Play in editor total start time 0,146 seconds.
+[2024.01.24-14.52.14:748][932]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.52.21:165][317]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.52.21:589][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.52.21:589][341]LogWorld: BeginTearingDown for /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.52.21:589][341]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-14.52.21:590][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.52.21:590][341]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-14.52.21:593][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-14.52.21:596][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.52.21:605][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-14.52.21:605][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.24-14.52.21:605][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.24-14.52.21:606][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.24-14.52.21:619][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.52.21:621][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.24-14.52.21:665][342]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.01.24-14.53.13:610][366]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.53.13:683][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.24-14.53.14:254][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.53.14:361][393]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.53.14:361][393]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_Player41D544BA4107602B7CAFCE83D5112D10.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.53.14:368][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.89 sec)
+[2024.01.24-14.53.14:371][393]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.53.14:371][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
+[2024.01.24-14.53.16:838][540]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-14.53.16:842][540]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.24-14.53.16:842][540]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.24-14.53.16:843][540]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 8 ms)
+[2024.01.24-14.53.16:844][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-14.53.16:844][540]PIE: New page: PIE session: FirstPersonMap (24 janv. 2024 à 16:53:16)
+[2024.01.24-14.53.16:844][540]LogPlayLevel: Creating play world package: /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.53.16:848][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003754s)
+[2024.01.24-14.53.16:848][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_FirstPersonTemplate/Maps/FirstPersonMap.FirstPersonMap to /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.003784s)
+[2024.01.24-14.53.16:859][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.24-14.53.16:862][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-14.53.16:862][540]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-14.53.16:862][540]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-14.53.16:863][540]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.24-14.53.16:863][540]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-14.53.16:863][540]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-14.53.16:863][540]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.24-14.53.16:864][540]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-14.53.16:864][540]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 57 ms)
+[2024.01.24-14.53.16:864][540]LogPlayLevel: PIE: World Init took: (0.002423s)
+[2024.01.24-14.53.16:864][540]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-14.53.16:864][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-14.53.16:864][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-14.53.16:865][540]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-14.53.16:865][540]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-14.53.16:865][540]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-14.53.16:867][540]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-14.53.16:929][540]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.01.24-14.53.16:930][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-14.53.16:930][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-14.53.16:930][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-14.53.16:931][540]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.24-14.53.16:931][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.24-14.53.16:932][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.24-14.53.16:932][540]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.24-14.53.16:932][540]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.24-14.53.16:932][540]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2024.01.24-14.53.16:932][540]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.24-14.53.16:935][540]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.24-14.53.16:936][540]LogWorld: Bringing World /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.01.24-15.53.16
+[2024.01.24-14.53.16:936][540]LogWorld: Bringing up level for play took: 0.001706
+[2024.01.24-14.53.16:939][540]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.01.24-14.53.16:942][540]PIE: Server logged in
+[2024.01.24-14.53.16:943][540]PIE: Play in editor total start time 0,101 seconds.
+[2024.01.24-14.53.20:940][776]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.20:941][776]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.20:957][777]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.20:974][778]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.20:990][779]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:007][780]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:024][781]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:040][782]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:057][783]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:074][784]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:091][785]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:106][786]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:124][787]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:141][788]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:157][789]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:174][790]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:190][791]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:208][792]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:224][793]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:240][794]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:256][795]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:274][796]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:291][797]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:307][798]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:323][799]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:340][800]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:357][801]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:373][802]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:390][803]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:407][804]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:424][805]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:440][806]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:457][807]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:473][808]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:490][809]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:506][810]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:524][811]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:540][812]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:558][813]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:574][814]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:590][815]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:607][816]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:624][817]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:640][818]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:656][819]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:674][820]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:691][821]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:708][822]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:724][823]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:741][824]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:758][825]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:775][826]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:791][827]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:808][828]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:824][829]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:840][830]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:858][831]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:874][832]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:891][833]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:908][834]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:923][835]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:940][836]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:956][837]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:974][838]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.21:991][839]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:008][840]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:024][841]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:041][842]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:058][843]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:074][844]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:091][845]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:108][846]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:124][847]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:140][848]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:156][849]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:174][850]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:190][851]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:207][852]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:225][853]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:241][854]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:258][855]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:274][856]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:291][857]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:307][858]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:324][859]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:341][860]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:358][861]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:375][862]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:391][863]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:408][864]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:424][865]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:441][866]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:459][867]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:474][868]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:491][869]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:507][870]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:524][871]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:540][872]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:556][873]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:574][874]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:590][875]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:608][876]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:623][877]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:641][878]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:658][879]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:675][880]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:691][881]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:708][882]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:724][883]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:741][884]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:758][885]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:774][886]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:791][887]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:808][888]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:824][889]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:841][890]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:858][891]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:874][892]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:891][893]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:907][894]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:925][895]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:940][896]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:958][897]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:973][898]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.22:991][899]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:008][900]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:024][901]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:041][902]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:058][903]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:074][904]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:091][905]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:107][906]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:124][907]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:140][908]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:158][909]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:174][910]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:190][911]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:207][912]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:224][913]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:241][914]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:258][915]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:273][916]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:291][917]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:308][918]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:324][919]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:340][920]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:357][921]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:374][922]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:392][923]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:407][924]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:424][925]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:440][926]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:458][927]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:474][928]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:491][929]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:507][930]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:524][931]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:540][932]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:558][933]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:574][934]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:591][935]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:607][936]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:624][937]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:641][938]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:657][939]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:674][940]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:690][941]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:707][942]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:724][943]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:740][944]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:756][945]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:774][946]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:790][947]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:807][948]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:824][949]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:840][950]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:858][951]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:874][952]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:891][953]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:907][954]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.23:924][955]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.25:907][ 74]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.26:391][103]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:391][103]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:407][104]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:424][105]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:440][106]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:457][107]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:473][108]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:490][109]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:507][110]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:524][111]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:541][112]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:557][113]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:574][114]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:590][115]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:606][116]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:624][117]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:640][118]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:657][119]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:674][120]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:691][121]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:706][122]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:724][123]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:741][124]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:756][125]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:774][126]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:791][127]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:807][128]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:824][129]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:840][130]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:858][131]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:874][132]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:891][133]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:906][134]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:924][135]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:941][136]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:958][137]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:974][138]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.26:990][139]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:007][140]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:024][141]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:041][142]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:056][143]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:074][144]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:091][145]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:106][146]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:124][147]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:141][148]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:158][149]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:174][150]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:191][151]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:207][152]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:224][153]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:241][154]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:258][155]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:275][156]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:291][157]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:306][158]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:323][159]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:340][160]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:358][161]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:374][162]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:391][163]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:408][164]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:424][165]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:441][166]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:458][167]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:474][168]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:492][169]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:507][170]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:524][171]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:541][172]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:558][173]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:574][174]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:591][175]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:606][176]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:624][177]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:640][178]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:658][179]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:674][180]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:690][181]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:706][182]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:724][183]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:740][184]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:756][185]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:774][186]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:790][187]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:806][188]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:824][189]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:840][190]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:858][191]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:874][192]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:891][193]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:908][194]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:924][195]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:941][196]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:958][197]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:974][198]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.27:991][199]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:007][200]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:024][201]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:040][202]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:058][203]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:074][204]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:091][205]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:108][206]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:124][207]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:141][208]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:158][209]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:174][210]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:191][211]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:206][212]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:225][213]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:240][214]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:256][215]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:274][216]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:291][217]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:307][218]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:324][219]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:341][220]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:357][221]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:374][222]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:390][223]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:406][224]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:424][225]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:441][226]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:456][227]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:474][228]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:490][229]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:507][230]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:524][231]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:540][232]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:558][233]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:574][234]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:592][235]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:608][236]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:624][237]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:641][238]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:658][239]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:674][240]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:691][241]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:708][242]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:723][243]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:741][244]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:756][245]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:773][246]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:791][247]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:807][248]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:824][249]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.28:840][250]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.30:523][351]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.31:040][382]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:040][382]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:056][383]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:073][384]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:090][385]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:107][386]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:124][387]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:140][388]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:156][389]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:173][390]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:190][391]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:208][392]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:225][393]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:240][394]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:256][395]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:274][396]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:291][397]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:307][398]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:323][399]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:341][400]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:356][401]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:374][402]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:390][403]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:406][404]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:424][405]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:440][406]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:456][407]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:474][408]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:490][409]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:507][410]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:524][411]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:540][412]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:558][413]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:573][414]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:591][415]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:608][416]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:624][417]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:641][418]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:658][419]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:674][420]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:691][421]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:707][422]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:724][423]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:740][424]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:756][425]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:774][426]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:790][427]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:807][428]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:824][429]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:841][430]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:857][431]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:875][432]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:890][433]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:906][434]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:923][435]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:940][436]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:957][437]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:973][438]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.31:990][439]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:007][440]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:024][441]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:041][442]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:057][443]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:074][444]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:090][445]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:107][446]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:124][447]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:141][448]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:157][449]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:174][450]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:190][451]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:207][452]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:224][453]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:241][454]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:257][455]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:274][456]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:294][457]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:308][458]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:323][459]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:341][460]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:357][461]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:374][462]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:391][463]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:406][464]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:423][465]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:440][466]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:458][467]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:474][468]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:491][469]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:507][470]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:524][471]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:541][472]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:558][473]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:573][474]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:590][475]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:607][476]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:624][477]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:640][478]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:656][479]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:674][480]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:690][481]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:707][482]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:724][483]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:740][484]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:758][485]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:774][486]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:791][487]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:807][488]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:824][489]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:840][490]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:857][491]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:874][492]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:890][493]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:908][494]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:924][495]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:940][496]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:957][497]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:974][498]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.32:991][499]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:008][500]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:024][501]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:040][502]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:056][503]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:074][504]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:090][505]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:108][506]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:124][507]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:141][508]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:157][509]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:174][510]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:191][511]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.33:208][512]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.34:341][580]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.35:324][639]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:324][639]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:340][640]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:356][641]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:374][642]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:390][643]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:406][644]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:424][645]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:440][646]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:456][647]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:474][648]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:490][649]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:506][650]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:524][651]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:540][652]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:556][653]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:574][654]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:591][655]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:607][656]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:624][657]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:640][658]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:658][659]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:674][660]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:691][661]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:707][662]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:724][663]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:741][664]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:758][665]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:774][666]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:791][667]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:807][668]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:823][669]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:840][670]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:856][671]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:875][672]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:892][673]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:908][674]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:924][675]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:940][676]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:958][677]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:974][678]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.35:991][679]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:006][680]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:024][681]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:041][682]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:057][683]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:074][684]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:090][685]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:108][686]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:123][687]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:140][688]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:158][689]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:174][690]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:191][691]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:207][692]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:224][693]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:241][694]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:258][695]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:274][696]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:291][697]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:306][698]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:324][699]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:341][700]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:358][701]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:374][702]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:390][703]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:407][704]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:424][705]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:440][706]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:456][707]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:474][708]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:491][709]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:507][710]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:524][711]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:541][712]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:558][713]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:574][714]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:592][715]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:607][716]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:624][717]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:641][718]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:658][719]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:673][720]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:691][721]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:708][722]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:724][723]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:741][724]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:758][725]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:774][726]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:792][727]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:808][728]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:824][729]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:841][730]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:858][731]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:874][732]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:891][733]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:906][734]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:924][735]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:940][736]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:956][737]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:973][738]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.36:991][739]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:007][740]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:024][741]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:040][742]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:058][743]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:075][744]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:091][745]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:107][746]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:124][747]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:140][748]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:158][749]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:174][750]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:191][751]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:208][752]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:225][753]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:241][754]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:258][755]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:274][756]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:290][757]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:308][758]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:324][759]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:341][760]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:358][761]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:374][762]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:391][763]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.37:407][764]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.39:224][873]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.39:874][912]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:874][912]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:890][913]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:907][914]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:924][915]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:941][916]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:958][917]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:974][918]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.39:991][919]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:006][920]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:024][921]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:041][922]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:057][923]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:074][924]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:091][925]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:107][926]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:124][927]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:141][928]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:158][929]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:174][930]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:190][931]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:208][932]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:224][933]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:241][934]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:257][935]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:274][936]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:291][937]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:308][938]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:324][939]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:340][940]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:358][941]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:374][942]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:392][943]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:408][944]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:424][945]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:441][946]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:458][947]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:474][948]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:491][949]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:508][950]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:524][951]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:542][952]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:558][953]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:574][954]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:592][955]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:608][956]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:624][957]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:640][958]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:658][959]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:676][960]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:691][961]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:708][962]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:724][963]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:740][964]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:758][965]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:775][966]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:791][967]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:808][968]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:824][969]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:841][970]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:858][971]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:874][972]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:891][973]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:908][974]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:925][975]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:941][976]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:958][977]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:974][978]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.40:991][979]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:008][980]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:024][981]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:041][982]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:057][983]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:074][984]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:090][985]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:107][986]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:125][987]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:141][988]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:157][989]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:174][990]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:190][991]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:207][992]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:224][993]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:241][994]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:256][995]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:274][996]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:290][997]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:307][998]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:324][999]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:340][  0]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:357][  1]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:374][  2]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:391][  3]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:408][  4]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:424][  5]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:441][  6]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:457][  7]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:474][  8]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:491][  9]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:508][ 10]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:524][ 11]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:541][ 12]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:558][ 13]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:574][ 14]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:591][ 15]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:607][ 16]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:625][ 17]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:641][ 18]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:658][ 19]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:675][ 20]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:691][ 21]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:708][ 22]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:724][ 23]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:741][ 24]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:758][ 25]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:774][ 26]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:792][ 27]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:808][ 28]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:825][ 29]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:841][ 30]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:858][ 31]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:874][ 32]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:891][ 33]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:908][ 34]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:923][ 35]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:941][ 36]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:957][ 37]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:975][ 38]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.41:992][ 39]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:009][ 40]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:025][ 41]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:041][ 42]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:058][ 43]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:075][ 44]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:091][ 45]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:108][ 46]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:124][ 47]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:141][ 48]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:157][ 49]LogBlueprintUserMessages: [BP_Player_C_0] SPRINT
+[2024.01.24-14.53.42:175][ 50]LogBlueprintUserMessages: [BP_Player_C_0] STOP
+[2024.01.24-14.53.42:679][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.53.42:679][ 78]LogWorld: BeginTearingDown for /Game/_FirstPersonTemplate/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.24-14.53.42:679][ 78]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-14.53.42:680][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.53.42:680][ 78]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-14.53.42:683][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-14.53.42:686][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-14.53.42:695][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-14.53.42:695][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.24-14.53.42:695][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.24-14.53.42:698][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.24-14.53.42:710][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-14.53.42:713][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.24-14.53.42:758][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.01.24-14.53.51:723][582]BlueprintLog: New page: Compile BP_Player
+[2024.01.24-14.53.51:795][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.24-14.53.52:494][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-14.53.52:603][615]LogSavePackage: Moving output files for package: /Game/_FirstPersonTemplate/Player/BP_Player
+[2024.01.24-14.53.52:603][615]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_PlayerDACAFDBE41F46D18A3507ABC7FBD855B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/_FirstPersonTemplate/Player/BP_Player.uasset'
+[2024.01.24-14.53.52:612][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.01 sec)
+[2024.01.24-14.53.52:613][615]AssetCheck: New page: Asset Save: BP_Player
+[2024.01.24-14.53.52:613][615]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_FirstPersonTemplate/Player/BP_Player.BP_Player
