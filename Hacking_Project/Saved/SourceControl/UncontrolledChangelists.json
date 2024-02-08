@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Maps/FirstPersonMap_BuiltData.uasset"
+				"E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Maps/FirstPersonMap_BuiltData.uasset",
+				"E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset",
+				"E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/LDIs/BP_Door.uasset",
+				"E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Player/BP_Player.uasset",
+				"E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Player/BP_PlayerController.uasset"
 			]
 		}
 	]
