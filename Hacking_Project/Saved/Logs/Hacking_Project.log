@@ -2734,3 +2734,1198 @@ Script call stack:
 [2024.03.13-10.10.01:924][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
 [2024.03.13-10.10.01:937][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2024.03.13-10.10.01:974][586]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.13-10.11.30:231][388]BlueprintLog: New page: Compile WBP_PlayerHUD
+[2024.03.13-10.11.30:286][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.13-10.11.30:724][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.11.30:786][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PlayerHUD" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset" SILENT=true
+[2024.03.13-10.11.30:862][416]LogSavePackage: Moving output files for package: /Game/UI/WBP_PlayerHUD
+[2024.03.13-10.11.30:862][416]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/WBP_PlayerHUDC847378944001AE3DD8B20A818F8F4C1.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset'
+[2024.03.13-10.11.30:869][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 2.35 sec)
+[2024.03.13-10.11.30:871][416]AssetCheck: New page: Asset Save: WBP_PlayerHUD
+[2024.03.13-10.11.30:872][416]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_PlayerHUD.WBP_PlayerHUD
+[2024.03.13-10.11.31:744][480]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.11.31:751][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.11.31:751][480]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:11:31)
+[2024.03.13-10.11.31:751][480]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.11.31:752][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001978s)
+[2024.03.13-10.11.31:752][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002010s)
+[2024.03.13-10.11.31:764][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.13-10.11.31:767][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.11.31:767][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.11.31:768][480]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.11.31:768][480]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2024.03.13-10.11.31:768][480]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.11.31:768][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.11.31:768][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.11.31:768][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.11.31:769][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.11.31:769][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.11.31:770][480]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.11.31:827][480]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.11.31:828][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.11.31:828][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.11.31:828][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.11.31:828][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.13-10.11.31:828][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.03.13-10.11.31:830][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.13-10.11.31:830][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.13-10.11.31:830][480]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.13-10.11.31:830][480]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_Gym'.
+[2024.03.13-10.11.31:830][480]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.13-10.11.31:833][480]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.11.31:834][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.11.31
+[2024.03.13-10.11.31:834][480]LogWorld: Bringing up level for play took: 0.000789
+[2024.03.13-10.11.31:836][480]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.13-10.11.31:838][480]PIE: Server logged in
+[2024.03.13-10.11.31:839][480]PIE: Play in editor total start time 0,09 seconds.
+[2024.03.13-10.11.33:244][590]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.11.33:244][590]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.11.34:443][695]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.11.36:559][879]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.03.13-10.11.37:347][947]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.11.38:370][ 35]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.11.39:284][113]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.11.40:209][192]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.11.41:338][288]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Fail......
+[2024.03.13-10.11.43:705][491]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.11.43:705][491]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.11.44:083][523]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.11.44:083][523]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.11.44:243][537]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.11.45:739][665]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.11.47:581][823]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.11.48:177][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.11.48:177][870]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.11.48:178][870]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.11.48:178][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.11.48:184][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.11.48:184][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.11.48:192][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.11.48:192][870]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.13-10.11.48:193][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.13-10.11.48:194][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.13-10.11.48:207][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.13-10.11.48:247][871]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.03.13-10.12.08:467][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.12.08:473][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.12.08:473][398]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:12:08)
+[2024.03.13-10.12.08:473][398]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.12.08:476][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002187s)
+[2024.03.13-10.12.08:476][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002223s)
+[2024.03.13-10.12.08:484][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.13-10.12.08:487][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.12.08:487][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.12.08:487][398]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.12.08:488][398]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.03.13-10.12.08:488][398]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.12.08:488][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.12.08:488][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.12.08:488][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.12.08:488][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.12.08:488][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.12.08:490][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.12.08:563][398]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.12.08:563][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.12.08:563][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.12.08:563][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.12.08:564][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.13-10.12.08:564][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.03.13-10.12.08:566][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.13-10.12.08:566][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.13-10.12.08:566][398]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.13-10.12.08:566][398]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_Gym'.
+[2024.03.13-10.12.08:566][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.13-10.12.08:568][398]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.12.08:569][398]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.12.08
+[2024.03.13-10.12.08:569][398]LogWorld: Bringing up level for play took: 0.000800
+[2024.03.13-10.12.08:571][398]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.03.13-10.12.08:574][398]PIE: Server logged in
+[2024.03.13-10.12.08:575][398]PIE: Play in editor total start time 0,102 seconds.
+[2024.03.13-10.12.10:154][520]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.12.10:154][520]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.12.10:538][552]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.12.11:286][614]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.03.13-10.12.11:875][663]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Retry...
+[2024.03.13-10.12.13:898][833]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.12.14:957][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.12.14:957][919]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.12.14:957][919]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.12.14:957][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.12.14:961][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.12.14:964][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.12.14:973][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.12.14:973][919]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.13-10.12.14:973][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.13-10.12.14:975][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.13-10.12.14:988][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.13-10.12.15:037][920]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.03.13-10.12.57:194][ 50]BlueprintLog: New page: Compile WBP_PlayerHUD
+[2024.03.13-10.12.57:252][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.13-10.12.57:654][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.12.57:726][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PlayerHUD" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset" SILENT=true
+[2024.03.13-10.12.57:807][ 70]LogSavePackage: Moving output files for package: /Game/UI/WBP_PlayerHUD
+[2024.03.13-10.12.57:807][ 70]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/WBP_PlayerHUDB4938D674AD08D953AFDED9A7FFB06AA.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset'
+[2024.03.13-10.12.57:815][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 2.51 sec)
+[2024.03.13-10.12.57:817][ 70]AssetCheck: New page: Asset Save: WBP_PlayerHUD
+[2024.03.13-10.12.57:817][ 70]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_PlayerHUD.WBP_PlayerHUD
+[2024.03.13-10.13.16:120][410]BlueprintLog: New page: Compile WBP_PlayerHUD
+[2024.03.13-10.13.16:184][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.13-10.13.16:663][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.13.16:737][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PlayerHUD" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset" SILENT=true
+[2024.03.13-10.13.16:823][436]LogSavePackage: Moving output files for package: /Game/UI/WBP_PlayerHUD
+[2024.03.13-10.13.16:823][436]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/WBP_PlayerHUD696244894C085C50530D7E8A43E692AC.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset'
+[2024.03.13-10.13.16:830][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 2.68 sec)
+[2024.03.13-10.13.16:832][436]AssetCheck: New page: Asset Save: WBP_PlayerHUD
+[2024.03.13-10.13.16:832][436]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_PlayerHUD.WBP_PlayerHUD
+[2024.03.13-10.13.18:247][534]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.13.18:247][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.13.22:429][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.13.53:235][916]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.03.13-10.13.53:257][916]LogContentBrowser: Creating deferred item: NewFolder
+[2024.03.13-10.13.53:303][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.03.13-10.13.55:589][ 80]LogContentBrowser: Attempting asset rename: NewFolder -> _Base
+[2024.03.13-10.13.55:590][ 80]LogContentBrowser: End creating deferred item NewFolder
+[2024.03.13-10.14.03:106][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:GetInteractionText.K2Node_FunctionEntry_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:GetInteractionText.K2Node_FunctionResult_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:OnInteractionStart.K2Node_FunctionEntry_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:OnHackingSuccess.K2Node_FunctionEntry_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:OnInteractionEnd.K2Node_FunctionEntry_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget:OnHackingFailed.K2Node_FunctionEntry_0' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:GetInteractionText' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnInteractionStart' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnInteractionEnd' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnHackingSuccess' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnHackingFailed' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:ReceiveBeginPlay' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:ReceiveTick' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:UserConstructionScript' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:GetInteractionText' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:OnInteractionStart' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:OnInteractionEnd' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:OnHackingSuccess' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:107][570]LogMetaData: Removing '/Game/Hacking/_Base/BP_HackTarget.SKEL_BP_HackTarget_C:OnHackingFailed' ref from Metadata '/Game/LDIs/BP_HackTarget.PackageMetaData'
+[2024.03.13-10.14.03:119][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.14.03:202][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hacking/_Base/BP_HackTarget" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset" SILENT=true
+[2024.03.13-10.14.03:202][570]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Hacking/_Base/BP_HackTarget does not exist, will not scan.
+[2024.03.13-10.14.03:218][570]LogSavePackage: Moving output files for package: /Game/Hacking/_Base/BP_HackTarget
+[2024.03.13-10.14.03:218][570]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_HackTargetB707AA1E4D9BCB645B9E35885A7FCA5D.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset'
+[2024.03.13-10.14.03:221][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LDIs/BP_HackTarget" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/LDIs/BP_HackTarget.uasset" SILENT=true
+[2024.03.13-10.14.03:222][570]LogSavePackage: Moving output files for package: /Game/LDIs/BP_HackTarget
+[2024.03.13-10.14.03:222][570]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_HackTargetA8679A034472D1A887811FAB21AE382B.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/LDIs/BP_HackTarget.uasset'
+[2024.03.13-10.14.03:232][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.80 sec)
+[2024.03.13-10.14.03:279][570]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.13-10.14.03:279][570]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.14.03:279][570]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LDIs/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.14.03:279][570]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LDIs/BP_HackTarget.BP_HackTarget_C
+[2024.03.13-10.14.03:279][570]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/LDIs/BP_HackTarget.Default__BP_HackTarget_C
+[2024.03.13-10.14.05:672][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.14.05:712][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Gym" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Maps/Level_Gym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.13-10.14.05:740][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.13-10.14.05:754][709]LogSavePackage: Moving output files for package: /Game/Maps/Level_Gym
+[2024.03.13-10.14.05:754][709]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/Level_Gym9686DCB3449F84ECCFEEC38039216975.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Maps/Level_Gym.umap'
+[2024.03.13-10.14.05:758][709]LogFileHelpers: Saving map 'Level_Gym' took 0.046
+[2024.03.13-10.14.05:766][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.89 sec)
+[2024.03.13-10.14.05:778][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.13-10.14.05:839][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.13-10.14.05:851][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.13-10.14.05:864][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.13-10.14.05:867][709]AssetCheck: New page: Asset Save: Level_Gym
+[2024.03.13-10.14.05:867][709]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Level_Gym.Level_Gym
+[2024.03.13-10.14.10:074][996]BlueprintLog: New page: Compile WBP_PlayerHUD
+[2024.03.13-10.14.10:128][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.13-10.14.11:324][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.14.11:394][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_PlayerHUD" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset" SILENT=true
+[2024.03.13-10.14.11:481][ 75]LogSavePackage: Moving output files for package: /Game/UI/WBP_PlayerHUD
+[2024.03.13-10.14.11:481][ 75]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/WBP_PlayerHUDD8E45636476FA12C620FAD9D57CDF265.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/UI/WBP_PlayerHUD.uasset'
+[2024.03.13-10.14.11:489][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 3.05 sec)
+[2024.03.13-10.14.11:491][ 75]AssetCheck: New page: Asset Save: WBP_PlayerHUD
+[2024.03.13-10.14.11:491][ 75]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WBP_PlayerHUD.WBP_PlayerHUD
+[2024.03.13-10.14.12:020][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.13-10.14.15:462][369]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.14.15:462][369]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.14.15:462][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.14.41:363][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.14.41:371][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.14.41:371][414]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:14:41)
+[2024.03.13-10.14.41:371][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.14.41:373][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002387s)
+[2024.03.13-10.14.41:373][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002424s)
+[2024.03.13-10.14.41:384][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.13-10.14.41:386][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.14.41:386][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.14.41:387][414]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.14.41:387][414]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2024.03.13-10.14.41:387][414]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.14.41:387][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.14.41:387][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.14.41:387][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.14.41:387][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.14.41:387][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.14.41:390][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.14.41:452][414]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.14.41:452][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.14.41:453][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.14.41:453][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.14.41:454][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.03.13-10.14.41:454][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.03.13-10.14.41:456][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.03.13-10.14.41:456][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.03.13-10.14.41:456][414]LogInit: FAudioDevice initialized with ID 25.
+[2024.03.13-10.14.41:456][414]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level_Gym'.
+[2024.03.13-10.14.41:456][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.13-10.14.41:458][414]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.14.41:459][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.14.41
+[2024.03.13-10.14.41:459][414]LogWorld: Bringing up level for play took: 0.000758
+[2024.03.13-10.14.41:461][414]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.03.13-10.14.41:464][414]PIE: Server logged in
+[2024.03.13-10.14.41:464][414]PIE: Play in editor total start time 0,095 seconds.
+[2024.03.13-10.14.42:966][536]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.14.42:966][536]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.14.43:478][580]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.14.44:501][671]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.14.44:501][671]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.14.45:498][755]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.14.45:498][755]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.14.46:153][811]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.14.46:154][811]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.14.47:471][924]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.14.47:471][924]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.14.49:028][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.14.49:028][ 59]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.14.49:028][ 59]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.14.49:028][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.14.49:032][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.14.49:036][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.14.49:044][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-10.14.49:044][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.13-10.14.49:044][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.13-10.14.49:047][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.13-10.14.49:058][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.14.49:061][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.13-10.14.49:106][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 0 (Found bundle for host: 0x6e74b960960 [serially])
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 6 (Closing connection)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 9 (  Trying 54.83.111.215:443...)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.83.111.215) port 443)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 25 (Server certificate:)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 34 (Closing connection)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: 000006E7C5942300: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.14.58:003][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-10.17.12:216][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction
+[2024.03.13-10.17.12:216][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.17.12:216][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.17.50:402][425]BlueprintLog: New page: Compile BP_TriggerInteraction
+[2024.03.13-10.17.50:479][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.13-10.17.51:054][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.17.51:144][456]LogSavePackage: Moving output files for package: /Game/PlayerTriggers/BP_TriggerInteraction
+[2024.03.13-10.17.51:145][456]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_TriggerInteraction820C6D164027B6C046A3F7894AC11519.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/PlayerTriggers/BP_TriggerInteraction.uasset'
+[2024.03.13-10.17.51:153][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.15 sec)
+[2024.03.13-10.17.51:155][456]AssetCheck: New page: Asset Save: BP_TriggerInteraction
+[2024.03.13-10.17.51:155][456]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 0 (Found bundle for host: 0x6e74b960960 [serially])
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 6 (Closing connection)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 9 (  Trying 44.193.96.37:443...)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (44.193.96.37) port 443)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 25 (Server certificate:)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 34 (Closing connection)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: 000006E7B603AF00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.17.58:076][972]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-10.18.01:220][197]BlueprintLog: New page: Compile BP_TriggerInteraction
+[2024.03.13-10.18.01:278][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.13-10.18.01:969][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.18.02:070][237]LogSavePackage: Moving output files for package: /Game/PlayerTriggers/BP_TriggerInteraction
+[2024.03.13-10.18.02:070][237]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_TriggerInteractionE4BBEC4248F64D433D1327921FB7EAFD.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/PlayerTriggers/BP_TriggerInteraction.uasset'
+[2024.03.13-10.18.02:080][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 3.26 sec)
+[2024.03.13-10.18.02:081][237]AssetCheck: New page: Asset Save: BP_TriggerInteraction
+[2024.03.13-10.18.02:081][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction
+[2024.03.13-10.18.32:817][486]BlueprintLog: New page: Compile BP_TriggerInteraction
+[2024.03.13-10.18.32:878][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.13-10.18.33:472][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.18.33:552][515]LogSavePackage: Moving output files for package: /Game/PlayerTriggers/BP_TriggerInteraction
+[2024.03.13-10.18.33:552][515]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_TriggerInteractionE4C7E39F4FBBB28F013681B26EC6FD92.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/PlayerTriggers/BP_TriggerInteraction.uasset'
+[2024.03.13-10.18.33:559][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 3.35 sec)
+[2024.03.13-10.18.33:561][515]AssetCheck: New page: Asset Save: BP_TriggerInteraction
+[2024.03.13-10.18.33:561][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction
+[2024.03.13-10.18.34:625][594]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerTriggers/_Base/BP_TriggerPlayer.BP_TriggerPlayer
+[2024.03.13-10.18.34:625][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.18.34:625][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.19.17:677][  3]LogViewport: Scene viewport resized to 1323x586, mode Windowed.
+[2024.03.13-10.20.33:204][916]BlueprintLog: New page: Compile BP_TriggerPlayer
+[2024.03.13-10.20.33:266][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.13-10.20.33:795][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.20.33:864][952]LogSavePackage: Moving output files for package: /Game/PlayerTriggers/_Base/BP_TriggerPlayer
+[2024.03.13-10.20.33:864][952]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_TriggerPlayer2CED14F7444E3A2B8A04EEBEDD773CB1.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/PlayerTriggers/_Base/BP_TriggerPlayer.uasset'
+[2024.03.13-10.20.33:870][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 3.43 sec)
+[2024.03.13-10.20.33:871][952]AssetCheck: New page: Asset Save: BP_TriggerPlayer
+[2024.03.13-10.20.33:871][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerTriggers/_Base/BP_TriggerPlayer.BP_TriggerPlayer
+[2024.03.13-10.20.51:516][363]BlueprintLog: New page: Compile BP_TriggerInteraction
+[2024.03.13-10.20.51:566][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.13-10.20.52:102][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.20.52:183][396]LogSavePackage: Moving output files for package: /Game/PlayerTriggers/BP_TriggerInteraction
+[2024.03.13-10.20.52:183][396]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_TriggerInteractionEAC6B46441D3213C62CFD3A7D088A854.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/PlayerTriggers/BP_TriggerInteraction.uasset'
+[2024.03.13-10.20.52:190][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 3.51 sec)
+[2024.03.13-10.20.52:191][396]AssetCheck: New page: Asset Save: BP_TriggerInteraction
+[2024.03.13-10.20.52:191][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction
+[2024.03.13-10.21.09:289][847]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.21.09:296][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.21.09:296][847]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:21:09)
+[2024.03.13-10.21.09:337][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.21.09:339][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2024.03.13-10.21.09:339][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002026s)
+[2024.03.13-10.21.09:350][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.13-10.21.09:352][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.21.09:352][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.21.09:353][847]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.21.09:353][847]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2024.03.13-10.21.09:353][847]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.21.09:353][847]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.21.09:353][847]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.21.09:354][847]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.21.09:354][847]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.21.09:354][847]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.21.09:356][847]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.21.09:410][847]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.21.09:410][847]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.21.09:411][847]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.21.09:411][847]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.21.09:412][847]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.03.13-10.21.09:412][847]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.03.13-10.21.09:413][847]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.03.13-10.21.09:413][847]LogInit: FAudioDevice initialized with ID 26.
+[2024.03.13-10.21.09:413][847]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.03.13-10.21.09:413][847]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level_Gym'.
+[2024.03.13-10.21.09:413][847]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.13-10.21.09:416][847]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.21.09:417][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.21.09
+[2024.03.13-10.21.09:417][847]LogWorld: Bringing up level for play took: 0.001006
+[2024.03.13-10.21.09:419][847]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.03.13-10.21.09:422][847]PIE: Server logged in
+[2024.03.13-10.21.09:423][847]PIE: Play in editor total start time 0,128 seconds.
+[2024.03.13-10.21.10:927][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.21.10:928][989]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.21.10:928][989]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.21.10:928][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.21.10:931][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.21.10:934][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.21.10:942][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-10.21.10:942][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.13-10.21.10:942][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.13-10.21.10:944][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.13-10.21.10:955][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.21.10:956][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.13-10.21.10:997][990]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.03.13-10.21.36:992][169]BlueprintLog: New page: Compile BP_HackTarget
+[2024.03.13-10.21.37:020][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.13-10.21.37:754][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.21.37:825][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hacking/_Base/BP_HackTarget" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset" SILENT=true
+[2024.03.13-10.21.37:837][231]LogSavePackage: Moving output files for package: /Game/Hacking/_Base/BP_HackTarget
+[2024.03.13-10.21.37:837][231]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_HackTarget11EC4A34466A31CAE64AF5ABA9333511.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset'
+[2024.03.13-10.21.37:843][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.60 sec)
+[2024.03.13-10.21.37:844][231]AssetCheck: New page: Asset Save: BP_HackTarget
+[2024.03.13-10.21.37:844][231]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.21.41:137][552]Cmd: TRANSACTION UNDO
+[2024.03.13-10.21.41:137][552]LogEditorTransaction: Undo Remove Variable
+[2024.03.13-10.21.42:242][626]Cmd: TRANSACTION UNDO
+[2024.03.13-10.21.42:242][626]LogEditorTransaction: Undo Delete current selection
+[2024.03.13-10.21.44:395][813]BlueprintLog: New page: Compile BP_HackTarget
+[2024.03.13-10.21.44:421][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.03.13-10.21.45:007][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.21.45:078][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hacking/_Base/BP_HackTarget" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset" SILENT=true
+[2024.03.13-10.21.45:091][855]LogSavePackage: Moving output files for package: /Game/Hacking/_Base/BP_HackTarget
+[2024.03.13-10.21.45:091][855]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_HackTarget3334E48A4C47B1088AA99397C6BF5B48.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset'
+[2024.03.13-10.21.45:098][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.69 sec)
+[2024.03.13-10.21.45:099][855]AssetCheck: New page: Asset Save: BP_HackTarget
+[2024.03.13-10.21.45:099][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 0 (Found bundle for host: 0x6e74b960ab0 [serially])
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 6 (Closing connection)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 9 (  Trying 107.23.71.122:443...)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (107.23.71.122) port 443)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 25 (Server certificate:)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.13-10.21.58:023][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 34 (Closing connection)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: 000006E7CFEE5000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.21.58:024][975]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-10.22.12:876][134]BlueprintLog: New page: Compile BP_HackTarget
+[2024.03.13-10.22.12:905][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.03.13-10.22.13:604][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.22.13:670][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hacking/_Base/BP_HackTarget" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset" SILENT=true
+[2024.03.13-10.22.13:681][179]LogSavePackage: Moving output files for package: /Game/Hacking/_Base/BP_HackTarget
+[2024.03.13-10.22.13:682][179]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_HackTargetD69DC9DF4DEA413D2794E5892A5D3203.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset'
+[2024.03.13-10.22.13:689][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 3.78 sec)
+[2024.03.13-10.22.13:690][179]AssetCheck: New page: Asset Save: BP_HackTarget
+[2024.03.13-10.22.13:690][179]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.22.14:828][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.22.14:833][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.22.14:833][264]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:22:14)
+[2024.03.13-10.22.14:833][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.22.14:836][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001869s)
+[2024.03.13-10.22.14:836][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.001898s)
+[2024.03.13-10.22.14:847][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.13-10.22.14:850][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.22.14:850][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.22.14:850][264]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.22.14:851][264]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2024.03.13-10.22.14:851][264]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.22.14:851][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.22.14:851][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.22.14:851][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.22.14:851][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.22.14:851][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.22.14:853][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.22.14:908][264]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.22.14:908][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.22.14:908][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.22.14:908][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.22.14:909][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.03.13-10.22.14:909][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.03.13-10.22.14:910][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.03.13-10.22.14:910][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.03.13-10.22.14:911][264]LogInit: FAudioDevice initialized with ID 27.
+[2024.03.13-10.22.14:911][264]LogAudio: Display: Audio Device (ID: 27) registered with world 'Level_Gym'.
+[2024.03.13-10.22.14:911][264]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.03.13-10.22.14:913][264]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.22.14:914][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.22.14
+[2024.03.13-10.22.14:914][264]LogWorld: Bringing up level for play took: 0.000764
+[2024.03.13-10.22.14:915][264]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.03.13-10.22.14:918][264]PIE: Server logged in
+[2024.03.13-10.22.14:919][264]PIE: Play in editor total start time 0,086 seconds.
+[2024.03.13-10.22.16:390][382]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.22.16:390][382]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.22.16:752][413]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.22.19:014][609]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.22.19:014][609]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.22.20:006][694]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.22.20:006][694]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.22.23:008][953]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.22.23:008][953]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.22.23:871][ 27]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.22.23:871][ 27]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.22.24:875][113]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.22.24:875][113]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.22.40:018][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.22.40:018][309]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.22.40:018][309]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.22.40:018][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.22.40:021][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.22.40:024][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.22.40:036][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-10.22.40:036][309]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.03.13-10.22.40:036][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.03.13-10.22.40:038][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.03.13-10.22.40:048][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.22.40:051][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.13-10.22.40:122][311]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.03.13-10.22.57:611][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.22.57:617][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.22.57:617][828]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:22:57)
+[2024.03.13-10.22.57:617][828]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.22.57:619][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001907s)
+[2024.03.13-10.22.57:619][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.001941s)
+[2024.03.13-10.22.57:627][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.13-10.22.57:629][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.22.57:629][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.22.57:630][828]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.22.57:630][828]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2024.03.13-10.22.57:630][828]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.22.57:630][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.22.57:630][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.22.57:631][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.22.57:631][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.22.57:631][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.22.57:633][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.22.57:684][828]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.22.57:684][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.22.57:684][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.22.57:685][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.22.57:685][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.03.13-10.22.57:685][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.03.13-10.22.57:687][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.03.13-10.22.57:687][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.03.13-10.22.57:687][828]LogInit: FAudioDevice initialized with ID 28.
+[2024.03.13-10.22.57:687][828]LogAudio: Display: Audio Device (ID: 28) registered with world 'Level_Gym'.
+[2024.03.13-10.22.57:687][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.03.13-10.22.57:692][828]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.22.57:694][828]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.22.57
+[2024.03.13-10.22.57:694][828]LogWorld: Bringing up level for play took: 0.000939
+[2024.03.13-10.22.57:695][828]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.03.13-10.22.57:698][828]PIE: Server logged in
+[2024.03.13-10.22.57:699][828]PIE: Play in editor total start time 0,083 seconds.
+[2024.03.13-10.22.59:277][975]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.22.59:277][975]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.22.59:577][  6]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.23.01:724][230]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.23.01:724][230]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.23.02:724][332]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.23.02:724][332]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.23.03:988][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.23.03:988][461]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.23.03:988][461]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.23.03:988][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.23.03:994][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.23.03:994][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.23.04:004][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.23.04:004][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.03.13-10.23.04:004][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.03.13-10.23.04:005][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.03.13-10.23.04:017][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.13-10.23.04:056][462]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.03.13-10.23.07:587][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.23.07:592][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.23.07:592][770]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:23:07)
+[2024.03.13-10.23.07:627][770]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.23.07:629][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001900s)
+[2024.03.13-10.23.07:629][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.001938s)
+[2024.03.13-10.23.07:637][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.13-10.23.07:640][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.23.07:640][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.23.07:640][770]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.23.07:641][770]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2024.03.13-10.23.07:641][770]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.23.07:641][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.23.07:641][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.23.07:641][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.23.07:641][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.23.07:641][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.23.07:643][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.23.07:691][770]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.23.07:692][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.23.07:692][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.23.07:692][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.23.07:692][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.03.13-10.23.07:692][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.03.13-10.23.07:694][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.03.13-10.23.07:694][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.03.13-10.23.07:694][770]LogInit: FAudioDevice initialized with ID 29.
+[2024.03.13-10.23.07:694][770]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level_Gym'.
+[2024.03.13-10.23.07:694][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.03.13-10.23.07:697][770]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.23.07:698][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.23.07
+[2024.03.13-10.23.07:698][770]LogWorld: Bringing up level for play took: 0.000774
+[2024.03.13-10.23.07:700][770]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.03.13-10.23.07:703][770]PIE: Server logged in
+[2024.03.13-10.23.07:703][770]PIE: Play in editor total start time 0,112 seconds.
+[2024.03.13-10.23.09:076][900]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.23.09:076][900]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.23.09:376][931]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.23.10:189][ 15]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.23.10:189][ 15]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.23.11:186][117]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.23.11:186][117]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.23.12:367][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.23.12:367][235]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.23.12:367][235]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.23.12:368][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.23.12:373][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.23.12:377][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.23.12:385][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.23.12:385][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.03.13-10.23.12:385][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.03.13-10.23.12:386][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.03.13-10.23.12:397][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.13-10.23.12:450][236]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.03.13-10.23.23:517][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.23.23:522][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.23.23:522][199]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:23:23)
+[2024.03.13-10.23.23:522][199]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.23.23:524][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001986s)
+[2024.03.13-10.23.23:524][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002020s)
+[2024.03.13-10.23.23:533][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.13-10.23.23:535][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.23.23:535][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.23.23:536][199]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.23.23:536][199]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2024.03.13-10.23.23:536][199]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.23.23:536][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.23.23:536][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.23.23:536][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.23.23:536][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.23.23:536][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.23.23:538][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.23.23:591][199]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.23.23:591][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.23.23:591][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.23.23:591][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.23.23:591][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.03.13-10.23.23:591][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.03.13-10.23.23:593][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.03.13-10.23.23:593][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.03.13-10.23.23:593][199]LogInit: FAudioDevice initialized with ID 30.
+[2024.03.13-10.23.23:593][199]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level_Gym'.
+[2024.03.13-10.23.23:593][199]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.03.13-10.23.23:595][199]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.23.23:596][199]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.23.23
+[2024.03.13-10.23.23:596][199]LogWorld: Bringing up level for play took: 0.000685
+[2024.03.13-10.23.23:597][199]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.03.13-10.23.23:600][199]PIE: Server logged in
+[2024.03.13-10.23.23:601][199]PIE: Play in editor total start time 0,079 seconds.
+[2024.03.13-10.23.24:915][318]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.23.24:915][318]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.23.25:130][339]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.23.26:187][444]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.23.26:187][444]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.23.27:181][542]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.23.27:181][542]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.23.28:567][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.23.28:567][677]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.23.28:567][677]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.23.28:568][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.23.28:577][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.23.28:580][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.23.28:588][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.23.28:588][677]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.03.13-10.23.28:588][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.03.13-10.23.28:590][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.03.13-10.23.28:599][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.13-10.23.28:659][678]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.03.13-10.24.01:875][637]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.24.01:880][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.24.01:880][637]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:24:01)
+[2024.03.13-10.24.01:880][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.24.01:883][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002679s)
+[2024.03.13-10.24.01:883][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002711s)
+[2024.03.13-10.24.01:891][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.13-10.24.01:894][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.24.01:894][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.24.01:895][637]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.24.01:895][637]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2024.03.13-10.24.01:895][637]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.24.01:895][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.24.01:895][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.24.01:896][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.24.01:896][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.24.01:896][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.24.01:898][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.24.01:949][637]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.24.01:950][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.24.01:950][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.24.01:950][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.24.01:950][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.03.13-10.24.01:950][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.03.13-10.24.01:952][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.03.13-10.24.01:952][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.03.13-10.24.01:952][637]LogInit: FAudioDevice initialized with ID 31.
+[2024.03.13-10.24.01:952][637]LogAudio: Display: Audio Device (ID: 31) registered with world 'Level_Gym'.
+[2024.03.13-10.24.01:952][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.03.13-10.24.01:957][637]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.24.01:958][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.24.01
+[2024.03.13-10.24.01:958][637]LogWorld: Bringing up level for play took: 0.000713
+[2024.03.13-10.24.01:960][637]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.03.13-10.24.01:963][637]PIE: Server logged in
+[2024.03.13-10.24.01:964][637]PIE: Play in editor total start time 0,085 seconds.
+[2024.03.13-10.24.03:452][777]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.24.03:452][777]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.24.03:685][801]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.24.04:170][851]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Fail......
+[2024.03.13-10.24.05:563][994]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.24.07:941][240]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.24.07:941][240]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.24.08:942][341]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.24.08:942][341]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.24.09:887][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.24.09:887][432]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.24.09:887][432]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.24.09:887][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.24.09:894][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.24.09:899][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.24.09:918][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.24.09:919][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.03.13-10.24.09:919][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.03.13-10.24.09:920][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.03.13-10.24.09:931][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.13-10.24.09:969][433]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.03.13-10.24.12:899][689]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.24.12:904][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.24.12:904][689]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:24:12)
+[2024.03.13-10.24.12:927][689]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.24.12:929][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001909s)
+[2024.03.13-10.24.12:929][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.001947s)
+[2024.03.13-10.24.12:938][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.13-10.24.12:940][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.24.12:940][689]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.24.12:941][689]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.24.12:941][689]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2024.03.13-10.24.12:941][689]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.24.12:941][689]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.24.12:941][689]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.24.12:942][689]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.24.12:942][689]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.24.12:942][689]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.24.12:943][689]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.24.13:000][689]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.24.13:000][689]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.24.13:000][689]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.24.13:000][689]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.24.13:001][689]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.03.13-10.24.13:001][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.03.13-10.24.13:003][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.03.13-10.24.13:003][689]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.03.13-10.24.13:003][689]LogInit: FAudioDevice initialized with ID 32.
+[2024.03.13-10.24.13:003][689]LogAudio: Display: Audio Device (ID: 32) registered with world 'Level_Gym'.
+[2024.03.13-10.24.13:003][689]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.03.13-10.24.13:005][689]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.24.13:006][689]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.24.13
+[2024.03.13-10.24.13:006][689]LogWorld: Bringing up level for play took: 0.000714
+[2024.03.13-10.24.13:008][689]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.03.13-10.24.13:011][689]PIE: Server logged in
+[2024.03.13-10.24.13:012][689]PIE: Play in editor total start time 0,109 seconds.
+[2024.03.13-10.24.14:241][802]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.24.14:241][802]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.24.14:555][834]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.24.15:806][963]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.24.15:806][963]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.24.16:800][ 64]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.24.16:800][ 64]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.24.35:867][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.24.35:867][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.24.35:867][ 30]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.24.35:868][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.24.35:874][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.24.35:879][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.24.35:886][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.24.35:887][ 30]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.03.13-10.24.35:887][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.03.13-10.24.35:888][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.03.13-10.24.35:900][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.13-10.24.35:953][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 0 (Found bundle for host: 0x6e74b960810 [serially])
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.13-10.24.58:010][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 6 (Closing connection)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 9 (  Trying 54.167.141.34:443...)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.167.141.34) port 443)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 25 (Server certificate:)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 34 (Closing connection)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: 000006E7CD780F00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.13-10.24.58:011][ 23]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE38EDFC-4280-E375-D621-4EB922C1CE95%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c8ff52404d4ffcdfa208609ac271185b%7C86d35a0c161d403aa041ee8da0f5aa3b%7Cced5b069-8c5c-456e-82f3-eb3f2e73b0fd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.13-10.25.10:234][ 65]BlueprintLog: New page: Compile BP_HackTarget
+[2024.03.13-10.25.10:262][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.13-10.25.10:899][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.13-10.25.10:965][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hacking/_Base/BP_HackTarget" FILE="E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset" SILENT=true
+[2024.03.13-10.25.10:977][115]LogSavePackage: Moving output files for package: /Game/Hacking/_Base/BP_HackTarget
+[2024.03.13-10.25.10:977][115]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/BP_HackTarget62A7F8304DE0DD590E11769F24DF0F3F.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Content/Hacking/_Base/BP_HackTarget.uasset'
+[2024.03.13-10.25.10:984][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.86 sec)
+[2024.03.13-10.25.10:985][115]AssetCheck: New page: Asset Save: BP_HackTarget
+[2024.03.13-10.25.10:985][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget
+[2024.03.13-10.25.15:188][477]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.25.15:194][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.25.15:194][477]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:25:15)
+[2024.03.13-10.25.15:216][477]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.25.15:218][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001970s)
+[2024.03.13-10.25.15:218][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.002013s)
+[2024.03.13-10.25.15:227][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.03.13-10.25.15:230][477]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.25.15:230][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.25.15:230][477]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.25.15:231][477]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2024.03.13-10.25.15:231][477]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.25.15:231][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.25.15:231][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.25.15:231][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.25.15:231][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.25.15:231][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.25.15:233][477]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.25.15:282][477]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.25.15:282][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.25.15:282][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.25.15:282][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.25.15:283][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.03.13-10.25.15:283][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.03.13-10.25.15:285][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.03.13-10.25.15:285][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.03.13-10.25.15:285][477]LogInit: FAudioDevice initialized with ID 33.
+[2024.03.13-10.25.15:285][477]LogAudio: Display: Audio Device (ID: 33) registered with world 'Level_Gym'.
+[2024.03.13-10.25.15:285][477]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.03.13-10.25.15:287][477]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.25.15:288][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.25.15
+[2024.03.13-10.25.15:288][477]LogWorld: Bringing up level for play took: 0.000704
+[2024.03.13-10.25.15:289][477]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.03.13-10.25.15:292][477]PIE: Server logged in
+[2024.03.13-10.25.15:293][477]PIE: Play in editor total start time 0,1 seconds.
+[2024.03.13-10.25.16:661][596]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.25.16:661][596]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.25.16:881][616]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.25.17:969][719]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.25.17:969][719]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.25.17:969][719]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_OnInteractionEnd', from offset 2
+[2024.03.13-10.25.17:969][719]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnHackingSuccess
+	Function /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnInteractionEnd
+
+[2024.03.13-10.25.19:629][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget without an associated node. The blueprint breakpoint has been removed
+[2024.03.13-10.25.19:629][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget without an associated node. The blueprint breakpoint has been removed
+[2024.03.13-10.25.21:118][719]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction END
+[2024.03.13-10.25.21:118][719]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 185
+[2024.03.13-10.25.21:118][719]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnHackingSuccess
+	Function /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnInteractionEnd
+	Function /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:OnInteractionEnd
+
+[2024.03.13-10.25.23:670][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction without an associated node. The blueprint breakpoint has been removed
+[2024.03.13-10.25.23:670][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction without an associated node. The blueprint breakpoint has been removed
+[2024.03.13-10.25.25:894][719]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 2
+[2024.03.13-10.25.25:894][719]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnHackingSuccess
+	Function /Game/Hacking/_Base/BP_HackTarget.BP_HackTarget_C:OnInteractionEnd
+	Function /Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:OnInteractionEnd
+	Function /Game/PlayerTriggers/_Base/BP_TriggerPlayer.BP_TriggerPlayer_C:EnableTrigger
+
+[2024.03.13-10.25.27:590][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/PlayerTriggers/_Base/BP_TriggerPlayer.BP_TriggerPlayer without an associated node. The blueprint breakpoint has been removed
+[2024.03.13-10.25.27:590][719]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/PlayerTriggers/_Base/BP_TriggerPlayer.BP_TriggerPlayer without an associated node. The blueprint breakpoint has been removed
+[2024.03.13-10.25.28:479][719]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.25.28:479][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.03.13-10.25.28:479][719]LogScript: Warning: Script Msg called by: BP_HackTarget_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BP_HackingTarget_C_1
+[2024.03.13-10.25.28:479][719]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (None)
+[2024.03.13-10.25.28:479][719]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.03.13-10.25.28:479][719]LogScript: Warning: Script Msg called by: BP_HackTarget_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BP_HackingTarget_C_1
+[2024.03.13-10.25.29:093][778]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.25.29:093][778]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.25.32:137][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.25.32:138][ 92]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.25.32:138][ 92]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.25.32:138][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.25.32:152][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.25.32:155][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.25.32:163][ 92]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.13-10.25.32:163][ 92]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.03.13-10.25.32:163][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.03.13-10.25.32:164][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.03.13-10.25.32:173][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.25.32:174][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.13-10.25.32:231][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.03.13-10.25.33:643][225]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.25.33:648][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.25.33:648][225]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:25:33)
+[2024.03.13-10.25.33:680][225]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.25.33:680][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001952s)
+[2024.03.13-10.25.33:680][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.001988s)
+[2024.03.13-10.25.33:688][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.03.13-10.25.33:690][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.25.33:690][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.25.33:691][225]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.25.33:691][225]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2024.03.13-10.25.33:691][225]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.25.33:691][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.25.33:691][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.25.33:692][225]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.25.33:692][225]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.25.33:692][225]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.25.33:693][225]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.25.33:741][225]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.25.33:741][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.25.33:741][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.25.33:741][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.25.33:742][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.03.13-10.25.33:742][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.03.13-10.25.33:744][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.03.13-10.25.33:744][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.03.13-10.25.33:744][225]LogInit: FAudioDevice initialized with ID 34.
+[2024.03.13-10.25.33:744][225]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level_Gym'.
+[2024.03.13-10.25.33:744][225]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.03.13-10.25.33:746][225]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.25.33:746][225]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.25.33
+[2024.03.13-10.25.33:746][225]LogWorld: Bringing up level for play took: 0.000691
+[2024.03.13-10.25.33:748][225]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.03.13-10.25.33:752][225]PIE: Server logged in
+[2024.03.13-10.25.33:752][225]PIE: Play in editor total start time 0,104 seconds.
+[2024.03.13-10.25.35:170][366]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.25.35:170][366]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.25.36:283][481]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.25.36:283][481]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.25.36:992][555]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player ENTER
+[2024.03.13-10.25.36:992][555]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (E)
+[2024.03.13-10.25.37:505][608]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction START
+[2024.03.13-10.25.38:465][709]LogBlueprintUserMessages: [WBP_PlayerHUD_C_0] HACKING | Success!
+[2024.03.13-10.25.38:466][709]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.25.38:466][709]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Interaction END
+[2024.03.13-10.25.38:466][709]LogBlueprintUserMessages: [BP_HackingTarget_C_1] BP_HackingTarget | Player EXIT
+[2024.03.13-10.25.38:466][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.03.13-10.25.38:466][709]LogScript: Warning: Script Msg called by: BP_HackTarget_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BP_HackingTarget_C_1
+[2024.03.13-10.25.38:466][709]LogBlueprintUserMessages: [BP_HackingTarget_C_1] HACK | Interact (None)
+[2024.03.13-10.25.38:466][709]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_QueryKeysMappedToAction_ReturnValue' of length 0 in '/Game/PlayerTriggers/BP_TriggerInteraction.BP_TriggerInteraction_C:GetInteractionKey'!
+[2024.03.13-10.25.38:466][709]LogScript: Warning: Script Msg called by: BP_HackTarget_C /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym:PersistentLevel.BP_HackingTarget_C_1
+[2024.03.13-10.25.39:460][808]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.25.39:460][808]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.25.41:028][969]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Player ENTER
+[2024.03.13-10.25.41:028][969]LogBlueprintUserMessages: [BP_Door_C_1] Open (E)
+[2024.03.13-10.25.41:984][ 69]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Player EXIT
+[2024.03.13-10.25.41:984][ 69]LogBlueprintUserMessages: [BP_Door_C_1] Open (E)
+[2024.03.13-10.25.42:637][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.25.42:637][134]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.25.42:637][134]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.25.42:638][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.25.42:646][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.25.42:649][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.25.42:658][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.25.42:658][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.03.13-10.25.42:658][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.03.13-10.25.42:659][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.03.13-10.25.42:671][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.13-10.25.42:722][135]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.03.13-10.25.49:672][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.13-10.25.49:678][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.13-10.25.49:678][770]PIE: New page: PIE session: Level_Gym (13 mars 2024 à 12:25:49)
+[2024.03.13-10.25.49:678][770]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.25.49:680][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001861s)
+[2024.03.13-10.25.49:680][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Gym.Level_Gym to /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym (0.001892s)
+[2024.03.13-10.25.49:689][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.03.13-10.25.49:692][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.13-10.25.49:692][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.13-10.25.49:692][770]LogAIModule: Creating AISystem for world Level_Gym
+[2024.03.13-10.25.49:693][770]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2024.03.13-10.25.49:693][770]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.13-10.25.49:693][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.13-10.25.49:693][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.13-10.25.49:693][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.13-10.25.49:693][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.13-10.25.49:693][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.13-10.25.49:695][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.13-10.25.49:750][770]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2024.03.13-10.25.49:750][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.13-10.25.49:750][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.13-10.25.49:750][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.13-10.25.49:750][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.03.13-10.25.49:750][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.03.13-10.25.49:751][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.03.13-10.25.49:751][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.03.13-10.25.49:751][770]LogInit: FAudioDevice initialized with ID 35.
+[2024.03.13-10.25.49:751][770]LogAudio: Display: Audio Device (ID: 35) registered with world 'Level_Gym'.
+[2024.03.13-10.25.49:751][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.03.13-10.25.49:755][770]LogLoad: Game class is 'BP_HackingGameMode_C'
+[2024.03.13-10.25.49:755][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Gym.Level_Gym up for play (max tick rate 0) at 2024.03.13-11.25.49
+[2024.03.13-10.25.49:755][770]LogWorld: Bringing up level for play took: 0.000705
+[2024.03.13-10.25.49:756][770]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.03.13-10.25.49:760][770]PIE: Server logged in
+[2024.03.13-10.25.49:760][770]PIE: Play in editor total start time 0,085 seconds.
+[2024.03.13-10.25.50:922][880]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Player ENTER
+[2024.03.13-10.25.50:922][880]LogBlueprintUserMessages: [BP_Door_C_1] Open (E)
+[2024.03.13-10.25.51:203][910]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction START
+[2024.03.13-10.25.52:196][ 13]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Interaction END
+[2024.03.13-10.25.52:196][ 13]LogBlueprintUserMessages: [BPC_ObjectiveTarget] BP_Door | On Target Complete
+[2024.03.13-10.25.52:196][ 13]LogBlueprintUserMessages: [BP_Door_C_1] BP_Door | Player EXIT
+[2024.03.13-10.25.52:196][ 13]LogBlueprintUserMessages: [BP_Door_C_1] Open (E)
+[2024.03.13-10.25.55:747][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.25.55:747][383]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_Gym
+[2024.03.13-10.25.55:747][383]LogWorld: UWorld::CleanupWorld for Level_Gym, bSessionEnded=true, bCleanupResources=true
+[2024.03.13-10.25.55:748][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.25.55:756][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.13-10.25.55:759][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.13-10.25.55:767][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.13-10.25.55:767][383]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.03.13-10.25.55:768][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.03.13-10.25.55:769][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.03.13-10.25.55:780][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.03.13-10.25.55:832][384]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.03.13-10.26.28:015][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.03.13-10.26.28:025][921]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_Gym_Auto2
+[2024.03.13-10.26.28:025][921]LogSavePackage: Moving 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/Level_Gym_Auto203D51BAF4A593F7E566CA380A45FA120.tmp' to 'E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/Autosaves/Game/Maps/Level_Gym_Auto2.umap'
+[2024.03.13-10.26.28:026][921]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/_JV/_Cours/_SupCrea/2024/2024_SupCrea_Repo/Hacking_Project/Saved/Autosaves/Game/Maps/Level_Gym_Auto2.umap is in the /Temp path, will not scan.
+[2024.03.13-10.26.28:026][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_Gym' took 0.022
+[2024.03.13-10.26.28:026][921]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
